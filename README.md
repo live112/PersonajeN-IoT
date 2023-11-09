@@ -22,7 +22,7 @@ Pescador
 | Eclipse Mosquitto | 5.0 | Software Libre |
 
 ## Prototipo en dibujo
--
+![2023_11_08 11_04 p  m  Office Lens](https://github.com/live112/PersonajeN-IoT/assets/68666691/db1fd31a-233a-464f-9d85-2542b0de2162)
 
 ## Comunicación
 | Protocolo | Modelo |
