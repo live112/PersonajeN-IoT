@@ -26,8 +26,16 @@ Pescador
 | Arduino IDE | 2.2.1 | Software Libre |
 | Eclipse Mosquitto | 5.0 | Software Libre |
 | Serial Bluetooth Terminal | 1.47 | Software de uso gratuito |
-## Prototipo en dibujo
-![2023_11_08 11_04 p  m  Office Lens](https://github.com/live112/PersonajeN-IoT/assets/68666691/db1fd31a-233a-464f-9d85-2542b0de2162)
+
+## Imágenes
+![PXL_20231205_201754061](https://github.com/live112/PersonajeN-IoT/assets/68666691/b5a880ac-905f-4bcf-84d3-4e8648a444ca)
+![PXL_20231205_211125835](https://github.com/live112/PersonajeN-IoT/assets/68666691/a811a32b-7389-4bbd-bdfd-2240297636ae)
+![PXL_20231206_153423258](https://github.com/live112/PersonajeN-IoT/assets/68666691/427b94d0-25a6-45a9-924a-f23f5b467741)
+
+## Vídeo de demostración (Pendiente)
+
+## Elaboración de código
+![code](https://github.com/live112/PersonajeN-IoT/assets/68666691/faeea802-d70d-4af3-9f17-d4f3706f3d5c)
 
 ## Comunicación
 | Protocolo | Modelo |
@@ -35,5 +43,8 @@ Pescador
 | MQTT | TPC/IP |
 | Bluetooth 5.1 | -
 
-## Circuito
+## Prototipo en dibujo (En desuso)
+![2023_11_08 11_04 p  m  Office Lens](https://github.com/live112/PersonajeN-IoT/assets/68666691/db1fd31a-233a-464f-9d85-2542b0de2162)
+
+## Circuito (En desuso)
 - https://wokwi.com/projects/380855875054840833
